@@ -50,6 +50,7 @@ public class CabRequest {
         return bookingId;
     }
 
+    //adding a comment
     public int getPickupCode() {
         return pickupCode;
     }
